@@ -4,13 +4,13 @@
   "private": true,
   "dependencies": {
     "@storybook/addon-knobs": "^5.2.1",
-    "husky": "^3.0.8",
-    "lint-staged": "^9.4.1",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.6",
     "prettier": "^1.18.2",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-redux": "^7.1.1",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.4"
   },
   "scripts": {
@@ -52,8 +52,8 @@
     "@storybook/addon-links": "^5.2.1",
     "@storybook/addon-storyshots": "^5.2.1",
     "@storybook/addons": "^5.2.1",
-    "@storybook/react": "^5.2.1",
-    "babel-plugin-macros": "^2.6.1",
+    "@storybook/react": "^10.0.7",
+    "babel-plugin-macros": "^2.8.0",
     "react-test-renderer": "^16.10.1",
     "require-context.macro": "^1.2.2"
   }
